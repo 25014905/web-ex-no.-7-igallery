@@ -156,12 +156,12 @@ index.html
 ```
 
 ## OUTPUT:
+![alt text](<gallapp/Screenshot 2026-05-23 214529.png>)
+![alt text](<gallapp/Screenshot 2026-05-23 214540.png>)
+![alt text](<gallapp/Screenshot 2026-05-23 214558.png>)
+![alt text](<gallapp/Screenshot 2026-05-23 214612.png>)
+![alt text](<gallapp/Screenshot 2026-05-23 214627.png>)
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
 
 DEVELOPED BY: MIRDULA D
 REGISTRATION NO. 212225040234
